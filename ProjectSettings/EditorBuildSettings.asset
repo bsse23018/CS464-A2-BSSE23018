@@ -8,6 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/level1_earn_to_die.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/level2_earn_to_die.unity
+    guid: 49e2a38b110ae414fbac4f0c0e778afd
+  - enabled: 1
+    path: Assets/Scenes/level3_earn_to_die.unity
+    guid: 5d81de9cd2917e04d9f275fb41f79090
+  - enabled: 1
+    path: Assets/Scenes/level4_earn_to_die.unity
+    guid: cb53c45a0ae7094479af100b45a1a6f2
+  - enabled: 1
+    path: Assets/Scenes/level5_earn_to_die.unity
+    guid: 5922dc9c0a180da49ac8fddeb79355ce
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
